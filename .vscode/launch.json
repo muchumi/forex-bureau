@@ -7,7 +7,7 @@
             "type": "al",
             "environmentType": "OnPrem",
             "server": "http://localhost:8080/BC260_forex_bureau/",
-            "serverInstance": "BC260_forexbureau",
+            "serverInstance": "BC260_forex_bureau",
             "authentication": "Windows",
             "startupObjectId": 22,
             "port": 7050,
