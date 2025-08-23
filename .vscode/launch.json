@@ -10,7 +10,7 @@
             "serverInstance": "BC260_forexbureau",
             "authentication": "Windows",
             "startupObjectId": 22,
-            "port": 7050,
+            "port": 7149,
             "startupObjectType": "Page",
             "breakOnError": "All",
             "launchBrowser": true,
