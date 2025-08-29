@@ -9,8 +9,7 @@ table 50100 ForexCurrency
         {
             Caption = 'Currency Code';
             DataClassification = ToBeClassified;
-            NotBlank=true;
-            
+            NotBlank=true;         
         }
         field(2; "Description"; Text[50])
         {

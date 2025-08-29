@@ -10,6 +10,6 @@ pageextension 50100 CustomerListExt extends "Customer List"
 {
     trigger OnOpenPage();
     begin
-        Message('Welcome to Application Language');
+        Message('Welcome to Forex Bureau Application Language');
     end;
 }
