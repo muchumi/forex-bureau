@@ -13,6 +13,7 @@ page 50100 ForexCurrencyCard
                 field("Code"; Rec."Code")
                 {
                     ApplicationArea=All;
+                    Editable=false;
                 }
                 field("Description"; Rec.Description)
                 {
