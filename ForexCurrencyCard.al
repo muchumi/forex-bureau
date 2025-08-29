@@ -2,6 +2,7 @@ page 50100 ForexCurrencyCard
 {
     PageType=Card;
     SourceTable=ForexCurrency;
+    UsageCategory = Administration;
 
     layout
     {
