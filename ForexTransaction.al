@@ -42,16 +42,26 @@ table 50101 ForexTransaction
         {
             Caption = 'Foreign Amount (Foreign Currency)';
             DataClassification = CustomerContent;
+            trigger OnValidate()
+            begin
+                CalculateLocalAmount();
+            end;
         }
         field(8; "ExchangeRate"; Decimal)
         {
             Caption = 'Exchange Rate';
             DecimalPlaces = 0:6;
             DataClassification = CustomerContent;
+
+            trigger OnValidate()
+            begin
+                CalculateLocalAmount();
+            end;
         }
         field(9; "LocalAmount"; Decimal)
         {
             Caption = 'Local Amount (Local Currency)';
+            Editable=false; // Preventing user from typing manually
             DataClassification = CustomerContent;
         }
         field(10; "TransactionType"; Option)
@@ -80,12 +90,17 @@ table 50101 ForexTransaction
     trigger OnInsert()
     begin
         if "TransactionDate" = 0D then
-           "TransactionDate" := Today;
+            "TransactionDate" := Today;
 
         if "TransactionTime" = 0T then 
             "TransactionTime" := Time;
 
         if "UserID" = '' then
             "UserID" := UserId;
+    end;
+
+    local procedure CalculateLocalAmount()
+    begin
+        "LocalAmount":=Round("ForeignAmount" * "ExchangeRate", 0.01);
     end;
 }
