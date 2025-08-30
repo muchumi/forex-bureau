@@ -5,7 +5,7 @@ table 50100 ForexCurrency
     
     fields
     {
-        field(1;"Code"; Code[5])
+        field(1;"Code"; Code[10])
         {
             Caption = 'Currency Code';
             DataClassification = ToBeClassified;

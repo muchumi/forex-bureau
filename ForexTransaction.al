@@ -62,7 +62,7 @@ table 50101 ForexTransaction
         }
         field(11; "UserID"; Code[50])
         {
-            Caption='User ID'; // User ID will hold username/login ID of the person who captured the forex deal,Used for audit trails
+            Caption='User ID'; // User ID will hold username/login ID of the person who captured the forex deal/Used for audit trails
             DataClassification=SystemMetadata; 
 
         }
