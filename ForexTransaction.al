@@ -84,5 +84,8 @@ table 50101 ForexTransaction
 
         if "TransactionTime" = 0T then 
             "TransactionTime" := Time;
+
+        if "UserID" = '' then
+            "UserID" := UserId;
     end;
 }
