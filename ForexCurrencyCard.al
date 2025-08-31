@@ -1,7 +1,7 @@
 page 50100 ForexCurrencyCard
 {
-    PageType=Card;
-    SourceTable=ForexCurrency;
+    PageType = Card;
+    SourceTable = ForexCurrency;
     UsageCategory = Administration;
 
     layout
@@ -10,35 +10,34 @@ page 50100 ForexCurrencyCard
         {
             group(General)
             {
-                Caption='General';
+                Caption = 'General';
                 field("Code"; Rec."Code")
                 {
-                    ApplicationArea=All;
-                    Editable=false;
+                    ApplicationArea = All;
                 }
                 field("Description"; Rec.Description)
                 {
-                    ApplicationArea=All;
+                    ApplicationArea = All;
                 }
             }
             group(Details)
             {
-                Caption='Details';
-                 field("BuyingRate"; Rec.BuyingRate)
+                Caption = 'Details';
+                field("BuyingRate"; Rec.BuyingRate)
                 {
-                    ApplicationArea=All;
+                    ApplicationArea = All;
                 }
                 field("SellingRate"; Rec.SellingRate)
                 {
-                    ApplicationArea=All;
+                    ApplicationArea = All;
                 }
                 field("RoundingPrecision"; Rec.RoundingPrecision)
                 {
-                    ApplicationArea=All;
+                    ApplicationArea = All;
                 }
                 field("Available"; Rec.Available)
                 {
-                    ApplicationArea=All;
+                    ApplicationArea = All;
                 }
             }
         }
