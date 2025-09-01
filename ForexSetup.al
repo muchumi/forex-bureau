@@ -9,7 +9,7 @@ table 50102 ForexSetup
         {
             Caption='Primary Key';
         }
-        field(2; "TransactionNo."; Code[20])
+        field(2; "TransactionNos."; Code[20])
         {
             Caption='Transaction Nos.';
             TableRelation="No. Series";
