@@ -33,7 +33,7 @@ table 50100 ForexCurrency
         {
             Caption='Rounding Precision';
             DecimalPlaces=0:4;
-            InitValue=0.05; // Default value for every new entry of a currency record  
+            InitValue=0.05; // Default rounding precision value for every new entry of a currency record  
             DataClassification = ToBeClassified;
         }
         field(6; "Available"; Boolean)

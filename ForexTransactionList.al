@@ -61,6 +61,7 @@ page 50103 ForexTransactionList
     }
     actions
     {
+        // action appears in navigation menu
         area(Navigation)
         {
             action(Card)
