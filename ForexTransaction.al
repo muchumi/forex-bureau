@@ -86,9 +86,18 @@ table 50101 ForexTransaction
             Clustered = true;
         }
     }
-    // The below trigger OnInsert() enables automatic capture of the logged-in user by using the system variable UserId whenever a new transaction is created
+    // The below trigger adds logic to pull a number from the No. Series if the not manually configured
+    // Enables automatic capture of the logged-in user by using the system variable UserId whenever a new transaction is created
     trigger OnInsert()
+    var
+        ForexSetup: Record ForexSetup;
+        NoSeriesMgt: Codeunit "No. Series";
     begin
+        if "TransactionNo."='' then begin
+            if not ForexSetup.Get('SETUP') then
+                Error('Forex Setup not configured.Please set up the Transaction Nos.');
+            "TransactionNo.":=NoSeriesMgt.GetNextNo(ForexSetup."TransactionNos.", Today, true);  
+        end;
         if "TransactionDate" = 0D then
             "TransactionDate" := Today;
 
