@@ -18,4 +18,14 @@ page 50104 ForexSetupCard
             }
         }
     }
+    trigger OnOpenPage()
+    var
+        ForexSetup: Record ForexSetup;
+    begin
+        if not ForexSetup.Get('SETUP') then begin
+            ForexSetup.Init();
+            ForexSetup."Primary Key":='SETUP';
+            ForexSetup.Insert()
+        end;
+    end;
 }
