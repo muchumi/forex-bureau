@@ -14,6 +14,7 @@ page 50104 ForexSetupCard
                 field("TransactionNos."; Rec."TransactionNos.")
                 {
                     ApplicationArea=All;
+                    TableRelation="No. Series"; //Lookup to BC No. Series table to ensure only valid No.Series are picked
                 }
             }
         }

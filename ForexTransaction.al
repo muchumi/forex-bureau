@@ -86,7 +86,7 @@ table 50101 ForexTransaction
             Clustered = true;
         }
     }
-    // The below trigger adds logic to pull a number from the No. Series if the not manually configured
+    // The below trigger adds logic to pull a number from the No. Series if they not manually configured
     // Enables automatic capture of the logged-in user by using the system variable UserId whenever a new transaction is created
     trigger OnInsert()
     var
