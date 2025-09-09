@@ -94,8 +94,9 @@ table 50101 ForexTransaction
         NoSeriesMgt: Codeunit "No. Series";
     begin
         if "TransactionNo."='' then begin
-            if not ForexSetup.Get('SETUP') then
+            if not ForexSetup.Get() then
                 Error('Forex Setup not configured.Please set up the Transaction Nos.');
+            ForexSetup.TestField("TransactionNos."); //Ensuring No. Series is set
             "TransactionNo.":=NoSeriesMgt.GetNextNo(ForexSetup."TransactionNos.", Today, true);  
         end;
         if "TransactionDate" = 0D then
