@@ -8,5 +8,4 @@ permissionset 50100 "Forex Cashier"
         page "ForexTransactionCard"=X,
         page "ForexTransactionList"=X;
 
-
 }
