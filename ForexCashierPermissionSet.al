@@ -9,3 +9,4 @@ permissionset 50100 "Forex Cashier"
         page "ForexTransactionList"=X;
 
 }
+
