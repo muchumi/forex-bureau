@@ -53,12 +53,12 @@ table 50103 "Forex Audit Trail"
         field(9; "OldValue"; Text[250])
         {
             Caption='Old Value';
-            DataClassification=CustomerContent;
+            DataClassification=EndUserIdentifiableInformation;
         }
         field(10; "NewValue"; Text[250])
         {
             Caption='New Value';
-            DataClassification=CustomerContent;
+            DataClassification=EndUserIdentifiableInformation;
         }
     }
 
