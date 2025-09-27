@@ -23,5 +23,5 @@ permissionset 50102 "Forex Manager"
                 // Reports
                 report "Forex Daily Report" = X,
                 report "Forex Transaction Summary" = X,
-                report "Forex Audit Trail" = X;
+                report "Forex Audit Trail Report" = X;
 }

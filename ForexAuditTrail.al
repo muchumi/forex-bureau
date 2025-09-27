@@ -68,6 +68,7 @@ table 50103 "Forex Audit Trail"
         {
             Clustered = true;
         }
+        // Secondary key that enables to sort and filter audit trail records efficiently by TransactionNo. first, then Date and later Time
         key(Transaction; "TransactionNo.", "Date", "Time"){ }
     }
 }
