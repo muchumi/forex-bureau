@@ -59,7 +59,7 @@ page 50106 "Forex Audit Trail List"
     {
         area(Processing)
         {
-            action("ViewTransaction")
+            action("View Transaction")
             {
                 Caption='View Transaction';
                 ApplicationArea=All;
