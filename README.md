@@ -2,3 +2,4 @@
 
 # Forex Bureau
 A forex bureau AL project. It converts currencies in accordance with the current currency exchange rates.
+The currencies recommended for use is the US against the Kenyan shilling for better system logic test.
