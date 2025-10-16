@@ -80,7 +80,7 @@ page 50107 "Forex Notification Setup Card"
                 {
                     Caption='Send Test SMS';
                     ApplicationArea=All;
-                    Image=SendSMS;
+                    Image=SendMail;
 
                     trigger OnAction()
                     var 
