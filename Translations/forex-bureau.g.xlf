@@ -1,0 +1,419 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="forex-bureau">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 246023731 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Forex Audit Trail</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Forex Audit Trail - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 246023731 - Field 3892058450 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Action Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Forex Audit Trail - Field ActionType - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 246023731 - Field 238379186 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Audit Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Forex Audit Trail - Field AuditEntryNo. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 246023731 - Field 2702489954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer ID No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Forex Audit Trail - Field CustomerIDNo. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 246023731 - Field 3192175264 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Forex Audit Trail - Field Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 246023731 - Field 166597695 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Forex Audit Trail - Field FieldName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 246023731 - Field 1648763025 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New Value</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Forex Audit Trail - Field NewValue - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 246023731 - Field 2178957536 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Old Value</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Forex Audit Trail - Field OldValue - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 246023731 - Field 1230148255 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Time</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Forex Audit Trail - Field Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 246023731 - Field 2491106477 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaction No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Forex Audit Trail - Field TransactionNo. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 246023731 - Field 2138558048 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Forex Audit Trail - Field UserID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2376260264 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Forex Notification Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Forex Notification Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2376260264 - Field 1951792025 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>API Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Forex Notification Setup - Field APIKey - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2376260264 - Field 556031546 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>API Username</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Forex Notification Setup - Field APIUsername - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2376260264 - Field 1429560548 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set the transaction amount threshold for sending high-value alerts to the manager</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Forex Notification Setup - Field HighValueLimit - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 2376260264 - Field 1429560548 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>High Value Alert Limit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Forex Notification Setup - Field HighValueLimit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2376260264 - Field 1749960401 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Manager Email Address</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Forex Notification Setup - Field ManagerEmail - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2376260264 - Field 1919394092 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Manager Phone No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Forex Notification Setup - Field ManagerPhoneNo. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2376260264 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Forex Notification Setup - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2376260264 - Field 743942932 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Send Email Notifications</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Forex Notification Setup - Field SendEmail - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2376260264 - Field 492156922 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sender ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Forex Notification Setup - Field SenderID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2376260264 - Field 2561118899 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Send SMS Notifications</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Forex Notification Setup - Field SendSMS - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2376260264 - Field 1332299274 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enter the Africa Talking SMS API URL</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Forex Notification Setup - Field SMSAPIURL - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Table 2376260264 - Field 1332299274 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SMS API URL</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Forex Notification Setup - Field SMSAPIURL - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1539192091 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Forex Currency</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ForexCurrency - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1539192091 - Field 3920084379 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Available</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ForexCurrency - Field Available - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1539192091 - Field 3601181648 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Buying Rate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ForexCurrency - Field BuyingRate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1539192091 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Currency Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ForexCurrency - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1539192091 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Currency Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ForexCurrency - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1539192091 - Field 2183437288 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rounding Precision</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ForexCurrency - Field RoundingPrecision - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1539192091 - Field 1003781168 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Selling Rate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ForexCurrency - Field SellingRate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1464151291 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Forex Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ForexSetup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1464151291 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ForexSetup - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1464151291 - Field 1596726012 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaction Nos.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ForexSetup - Field TransactionNos. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3492904678 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Forex Transaction</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ForexTransaction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3492904678 - Field 567887726 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Currency Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ForexTransaction - Field CurrencyCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3492904678 - Field 2702489954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer ID No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ForexTransaction - Field CustomerIDNo. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3492904678 - Field 1881986821 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ForexTransaction - Field CustomerName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3492904678 - Field 3504513763 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Exchange Rate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ForexTransaction - Field ExchangeRate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3492904678 - Field 3895105494 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Foreign Amount (Foreign Currency)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ForexTransaction - Field ForeignAmount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3492904678 - Field 3016549411 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Local Amount (Local Currency)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ForexTransaction - Field LocalAmount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3492904678 - Field 1117537388 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaction Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ForexTransaction - Field TransactionDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3492904678 - Field 2491106477 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaction No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ForexTransaction - Field TransactionNo. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3492904678 - Field 2338280203 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaction Time</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ForexTransaction - Field TransactionTime - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3492904678 - Field 3688020176 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaction Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ForexTransaction - Field TransactionType - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3492904678 - Field 2138558048 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ForexTransaction - Field UserID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1523694301 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Forex Audit Trail</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Forex Audit Trail List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1523694301 - Action 3194121835 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View Transaction</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Forex Audit Trail List - Action View Transaction - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2588167703 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Forex Bureau</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Forex Bureau Role Center - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1459489980 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Forex Notification Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Forex Notification Setup Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1459489980 - Control 3276447467 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Forex Notification Setup Card - Control General Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1459489980 - Control 743942932 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enable or disable Email Notifications</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Forex Notification Setup Card - Control SendEmail - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1459489980 - Control 2561118899 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enable or disable SMS Notifications</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Forex Notification Setup Card - Control SendSMS - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1459489980 - Control 56969130 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Manager Alerts</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Forex Notification Setup Card - Control Manager Alerts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1459489980 - Control 1429560548 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaction amount threshold for sending high-value alerts.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Forex Notification Setup Card - Control HighValueLimit - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1459489980 - Control 1749960401 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Manager email to receive alerts</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Forex Notification Setup Card - Control ManagerEmail - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1459489980 - Control 1919394092 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Manager phone number to receive SMS alerts</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Forex Notification Setup Card - Control ManagerPhoneNo. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1459489980 - Control 3253901071 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SMS API Settings</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Forex Notification Setup Card - Control SMS API Configuration - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1459489980 - Control 1951792025 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enter your Africas Talking API Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Forex Notification Setup Card - Control APIKey - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1459489980 - Control 556031546 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enter your Africas Talking API Username</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Forex Notification Setup Card - Control APIUsername - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1459489980 - Control 492156922 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enter your approved sender ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Forex Notification Setup Card - Control SenderID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1459489980 - Control 1332299274 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enter the Africas Talking SMS API endpoint URL.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Forex Notification Setup Card - Control SMSAPIURL - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1459489980 - Action 3246098898 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Testing Tools</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Forex Notification Setup Card - Action Testing - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1459489980 - Action 1285001562 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Send Test Email</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Forex Notification Setup Card - Action SendTestEmail - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1459489980 - Action 1364036761 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Send Test SMS</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Forex Notification Setup Card - Action SendTestSMS - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2762359791 - Control 318613646 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Details</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ForexCurrencyCard - Control Details - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2762359791 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ForexCurrencyCard - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1254830735 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Forex Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ForexSetupCard - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 96970826 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ForexTransactionCard - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 96970826 - Action 2282416948 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Post Forex Transaction</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ForexTransactionCard - Action Post - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3798037420 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Forex Transactions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ForexTransactionList - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3798037420 - Action 4125097576 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open Transaction</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ForexTransactionList - Action Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3742471481 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Forex Audit Trail Report</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Forex Audit Trail Report - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3742471481 - Control 27734073 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Filters</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Forex Audit Trail Report - Control FilterGroup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3742471481 - Control 3192175264 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Forex Audit Trail Report - Control Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3742471481 - Control 341327183 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaction No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Forex Audit Trail Report - Control TransactionNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3742471481 - Control 2138558048 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Forex Audit Trail Report - Control UserID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 1702414331 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Forex Daily Report</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Forex Daily Report - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2646747090 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Forex Transaction Summary</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Forex Transaction Summary - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Profile 4114357467 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Forex Bureau Role Center</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Profile Forex Bureau Manager - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Profile 4114357467 - Property 4111922599" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Forex Bureau Role Center</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Profile Forex Bureau Manager - Property ProfileDescription</note>
+        </trans-unit>
+        <trans-unit id="PermissionSet 3996006967 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Forex Manager</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PermissionSet Forex Manager - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
