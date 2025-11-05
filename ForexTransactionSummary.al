@@ -4,6 +4,8 @@ report 50101 "Forex Transaction Summary"
     ApplicationArea = All;
     UsageCategory = ReportsAndAnalysis;
 
+    WordLayout='ReportLayouts/ForexTransactionSummary.docx';
+
     dataset
     {
         dataitem(Trans; "ForexTransaction")
