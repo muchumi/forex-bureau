@@ -56,20 +56,21 @@ While it supports generic currencies, the recommended pair for testing and demon
    ```bash
    git clone https://github.com/muchumi/forex-bureau.git
    cd forex-bureau
-Open the project in VS Code.
+2. Open the project in VS Code.
 
-Modify app.json if needed (publisher, version, dependencies).
+3. Modify app.json if needed (publisher, version, dependencies).
 
-Build the .app file using the AL compiler.
+4. Build the .app file using the AL compiler.
 
-Publish and install the extension file (.app) into your Business Central sandbox or production environment.
+5. Publish and install the extension file (.app) into your Business Central sandbox or production environment.
 
 # Example using PowerShell:
+```powershell
 Publish-NavApp -ServerInstance BC -Path .\bin\release\ForexBureau.app
 Install-NavApp -ServerInstance BC -Name "BC260_ForexBureau"
 
 
-Configure your currency pairs and set up the permissions, notifications, and other setup items in the system.
+6. Configure your currency pairs and set up the permissions, notifications, and other setup items in the system.
 
 Usage
 
