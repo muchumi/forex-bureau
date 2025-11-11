@@ -18,7 +18,9 @@ report 50101 "Forex Transaction Summary"
 
             trigger OnPreDataItem()
             begin
-                SetRange("TransactionDate", StartDate, EndDate);
+                // Applies filter only after the user has entered a date
+                if (StartDate <> 0D) or (EndDate <> 0D) then 
+                    SetRange("TransactionDate", StartDate, EndDate);
 
                 // Reset counters before looping
                 TotalAmount := 0;
@@ -44,7 +46,7 @@ report 50101 "Forex Transaction Summary"
             }
         }
     }
-
+    
     var
         StartDate: Date;
         EndDate: Date;
