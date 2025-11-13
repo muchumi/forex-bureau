@@ -4,7 +4,8 @@ report 50101 "Forex Transaction Summary"
     ApplicationArea = All;
     UsageCategory = ReportsAndAnalysis;
 
-    WordLayout='ReportLayouts/ForexTransactionSummary.docx';
+    DefaultLayout = Word;
+    WordLayout = 'ReportLayouts/ForexTransactionSummary.docx';
 
     dataset
     {
@@ -45,11 +46,14 @@ report 50101 "Forex Transaction Summary"
                 field("End Date"; EndDate) { }
             }
         }
+        
     }
-    
+     
     var
         StartDate: Date;
         EndDate: Date;
         TotalAmount: Decimal;
         TransCount: Integer;
 }
+
+
