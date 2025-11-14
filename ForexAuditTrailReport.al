@@ -55,7 +55,7 @@ report 50102 "Forex Audit Trail Report"
         layout(layoutName)
         {
             Type=RDLC;
-            LayoutFile='ForexAuditTrailReport.rdlc';
+            LayoutFile='ReportLayouts/ForexAuditTrailReport.rdlc';
         }
     }
 }
