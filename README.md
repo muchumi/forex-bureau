@@ -65,11 +65,10 @@ While it supports generic currencies, the recommended pair for testing and demon
 
 5. Publish and install the extension file (.app) into your Business Central sandbox or production environment.
 
-# Example using PowerShell:
+## Example using PowerShell:
 ```powershell
 Publish-NavApp -ServerInstance BC -Path .\bin\release\ForexBureau.app
 Install-NavApp -ServerInstance BC -Name "BC260_ForexBureau"
-
 
 6. Configure your currency pairs and set up the permissions, notifications, and other setup items in the system.
 
