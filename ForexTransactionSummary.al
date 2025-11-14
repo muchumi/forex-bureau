@@ -4,8 +4,7 @@ report 50101 "Forex Transaction Summary"
     ApplicationArea = All;
     UsageCategory = ReportsAndAnalysis;
 
-    DefaultLayout = RDLC;
-    RDLCLayout = 'ReportLayouts/ForexTransactionSummary.rdlc';
+    DefaultRenderingLayout = SummaryRDLC;
 
     dataset
     {
@@ -19,11 +18,9 @@ report 50101 "Forex Transaction Summary"
 
             trigger OnPreDataItem()
             begin
-                // Apply date filter if user entered any
                 if (StartDate <> 0D) or (EndDate <> 0D) then
                     SetRange("TransactionDate", StartDate, EndDate);
 
-                // Reset aggregate values
                 TotalAmount := 0;
                 TransCount := 0;
             end;
@@ -45,6 +42,15 @@ report 50101 "Forex Transaction Summary"
                 field("Start Date"; StartDate) { }
                 field("End Date"; EndDate) { }
             }
+        }
+    }
+
+    rendering
+    {
+        layout(SummaryRDLC)
+        {
+            Type = RDLC;
+            LayoutFile = 'ReportLayouts/ForexTransactionSummary.rdlc';
         }
     }
 
