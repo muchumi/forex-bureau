@@ -56,6 +56,7 @@ While it supports generic currencies, the recommended pair for testing and demon
    ```bash
    git clone https://github.com/muchumi/forex-bureau.git
    cd forex-bureau
+   
 2. Open the project in VS Code.
 
 3. Modify app.json if needed (publisher, version, dependencies).
@@ -72,7 +73,7 @@ Install-NavApp -ServerInstance BC -Name "BC260_ForexBureau"
 
 6. Configure your currency pairs and set up the permissions, notifications, and other setup items in the system.
 
-Usage
+## Usage
 
 Define currencies under the Currency list (navigate to the ForexCurrency list).
 
@@ -84,7 +85,7 @@ Use role-based permissions: Assign the “Cashier”, “Supervisor”, and “M
 
 Set up notifications: For example, when a rate changes beyond a threshold, send an alert to designated users.
 
-Configuration
+## Configuration
 
 ForexSetup.al / ForexSetupCard.al: Initial system setup for the bureau (e.g., default currency, rounding rules).
 
@@ -94,7 +95,7 @@ ForexBureauManagerProfile.al, ForexBureauRoleCenter.al: Role centre and profile 
 
 You may modify permissions in *.PermissionSet.al files to suit your operational model.
 
-Contributing
+## Contributing
 
 Contributions are welcome! Here’s how you can help:
 
@@ -108,12 +109,11 @@ Submit a Pull Request describing your changes.
 
 Please ensure you follow any existing coding conventions and include tests for new features.
 
-License
+## License
 
 This project is open-source. You can use, modify and distribute it per the terms specified in the LICENSE file (to be included).
 
-Contact
+## Contact
 
-Created and maintained by Muchumi
-.
+Created and maintained by Muchumi.
 For questions or support, please open an issue in this repository.
