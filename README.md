@@ -96,7 +96,7 @@ You may modify permissions in *.PermissionSet.al files to suit your operational 
 
 ## Contributing
 
-Contributions are welcome! Here’s how you can help:
+Contributions are welcome! Hereis how you can help:
 
 Fork this repository.
 
